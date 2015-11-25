@@ -7,4 +7,6 @@ public class Main {
 
 	}
 
+	public void metodo2(){}
+
 }
